@@ -1,1 +1,1 @@
-# Projet_IoT_LAM_WITKOWSKI
+Projet IoT: LAM Sophie et WITKOWSKI Kinsey
